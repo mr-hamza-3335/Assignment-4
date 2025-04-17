@@ -1,0 +1,3 @@
+Ameer Hamza - Fullstack Developer
+
+Skills: Python, JavaScript, React, Node.js, MongoDB
